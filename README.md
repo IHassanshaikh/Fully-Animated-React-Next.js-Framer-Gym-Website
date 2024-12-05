@@ -14,10 +14,10 @@ Extra Mile: Focused on providing a polished, professional user experience.
 Learning Experience: An example of balancing client requests with professional boundaries.
 Feel free to check out the code and explore the animations! Feedback is always welcome.
 
-<img src="image_url.jpg" alt="Description of Image" >
+<img src="Capture.PNG" alt="Description of Image" >
 
-<img src="image_url.jpg" alt="Description of Image" >
+<img src="Capture2.PNG" alt="Description of Image" >
 
-<img src="image_url.jpg" alt="Description of Image" >
+<img src="Capture3.PNG" alt="Description of Image" >
 
-<img src="image_url.jpg" alt="Description of Image" >
+<img src="Capture4.PNG" alt="Description of Image" >
